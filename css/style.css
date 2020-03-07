@@ -1,0 +1,15 @@
+*{
+  box-sizing: border-box;
+}
+
+html{
+  font-size: 10px;
+}
+
+body{
+  background-image: url("https://media.giphy.com/media/5HK4TiiBeLSZq/giphy.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #141dfa;
+  font-family: 'Oxanium', cursive;
+}
